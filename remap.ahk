@@ -1,6 +1,7 @@
 ﻿Left::Backspace
 LAlt::,
 Down::Tab
+NumpadAdd::r
 1::t
 2::g
 3::v
@@ -16,4 +17,5 @@ Numpad6::k
 Numpad1::b  
 Numpad2::n  
 Numpad3::m  
+
 <::f
