@@ -1,0 +1,2 @@
+# keyMaper
+auto hotkey
