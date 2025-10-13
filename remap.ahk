@@ -7,6 +7,7 @@
 v::Backspace
 n::Tab
 ,::Enter
-ñ::f
+;::f
 b::;
-<::v
+\::v
+t::Return
