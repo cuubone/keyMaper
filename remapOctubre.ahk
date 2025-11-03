@@ -20,4 +20,5 @@ Numpad2::y
 Numpad3::k
 
 Down::,
-Left::h
+Right::h
+LAlt::Enter
